@@ -1,0 +1,202 @@
+# Transcribed by hand from the British Dupuytren's Society page "Doctors, clinics and organisations that treat
+# Dupuytren, Ledderhose or Peyronie's disease" (UK and Ireland). Format: see ids_radiotherapy.txt, plus optional
+# trailing key=value columns: tx=code:site,... (overrides the section's treatments) and flags=a,b,...
+# Locations on this page are mostly a town or hospital, not a street address.
+
+@source id=bds_uk url=https://dupuytrens-society.org.uk/treatment/doctors-clinics-organisations/ page_modified=2026-10-27 treatments=fasciectomy:hand specialty=hand_surgery
+
+# --- Surgery / PNF ---
+Mr Philip Grieve | Blackrock Clinic | | Blackrock, Co. Dublin | | | IE | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Kevin Herbert | Ulster Independent Clinic | | Belfast | Northern Ireland | | GB | | | | "A favourite of local musicians" (BDS)
+Mr Neil J. Cahoon | Edinburgh Dupuytren's Group | | Edinburgh | Scotland | | GB | | | | Special interest in Dupuytren's; NHS and private; virtual consultation possible | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private,video_consult
+Ms Dominique Davidson | Edinburgh Dupuytren's Group | | Edinburgh | Scotland | | GB | | | | Special interest in Dupuytren's; NHS and private; virtual consultation possible | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private,video_consult
+Mr Lancerotto | Edinburgh Dupuytren's Group | | Edinburgh | Scotland | | GB | | | | Private consultation and treatment; virtual consultation possible | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=private,video_consult
+Ms Jane McEachan | | | Fife | Scotland | | GB | | | | "Very experienced in all aspects of the disease" (BDS)
+Mr Wee Leon Lam | | | Edinburgh | Scotland | | GB | | | | Also treats children | flags=treats_children
+Ms Claire Simpson | | | Edinburgh | Scotland | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Ms Sally-Anne Philips | | | Edinburgh | Scotland | | GB | | | | Hand surgeon with a special interest in Dupuytren's
+Mr Mark Broadbent | Hand Clinic | | Glasgow | Scotland | | GB | | https://www.handclinics.co.uk | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mrs Amanda Hawkins | NHS Dumfries and Galloway | | Dumfries | Scotland | | GB | | | | Orthopaedic surgeon
+Ms Roshin Thomas | NHS Dumfries and Galloway | | Dumfries | Scotland | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+ | Aberdeen Virtual Hand Clinic | | Aberdeen | Scotland | | GB | | | | Online advice staffed by the surgeons who operate | flags=video_consult
+Mr Jamil Ahmed | | | Aberdeen | Scotland | | GB | | | | | flags=nhs,private
+Mr Justin Chatterjee | | | Glasgow | Scotland | | GB | | | |
+Mr Angus Arthur | Queen Elizabeth University Hospital / Gartnavel Hospital | | Glasgow | Scotland | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr Y Khan; K Hamlin; C Miller; D Lawrie | Aberdeen Royal Infirmary, PNF clinic | | Aberdeen | Scotland | | GB | | | | Dedicated outpatient PNF clinic, ~250 patients a year (BDS) | tx=needle_aponeurotomy:hand | flags=nhs
+Mr Prash Jesudason | | | North Wales | Wales | | GB | | | | Considerable experience treating Dupuytren's
+Mr Rogers | Welsh Hand Clinic | | Newport | Wales | | GB | | | | Also Cardiff
+Ms Louisa Banks | Glan Clwyd Hospital | | Bodelwyddan | Wales | | GB | | | | | tx=fasciectomy:hand,dermofasciectomy:hand,needle_aponeurotomy:hand | flags=nhs
+Mr Ian Josty | Morriston Hospital | | Swansea | Wales | | GB | | | |
+Mr Andrew Logan | | | Cardiff | Wales | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+Mr John Harrison; Mr Jagannath Chakravarthy | Cumbria Hand Surgery Service | | Carlisle | | | GB | | | | Surgery under local anaesthetic; also Queen Elizabeth Hospital, Gateshead | flags=nhs
+Mr Zaf Naqui | | | Salford | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Andrew Fitzgerald | | | Manchester | | | GB | | | | | flags=nhs,private
+Mr Mike Hayton | Wrightington Hospital, Hand and Upper Limb Unit | | Wigan | | | GB | | | | | flags=nhs,private
+Mr Lindsay Muir | Manchester Hand Clinic | | Manchester | | | GB | | | | | flags=private
+Ms Ladan Hajipour | Wythenshawe Hospital | | Manchester | | | GB | | | | Also private in Cheadle and Wilmslow; treats children | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private,treats_children
+Mr James D. Bedford | Wythenshawe Hospital / Salford Royal Hospital | | Manchester | | | GB | | | | Including revision surgery for problem cases | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,revision_surgery
+Mr Anil Agarwal | Royal Preston Hospital | | Preston | | | GB | | | | Revision surgery, local anaesthetic techniques; private in Preston and Bolton | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private,revision_surgery
+Mr Wee Sim Khor | Lancashire Teaching Hospitals | | Preston | | | GB | | | | Private at Beardwood Hospital, Blackburn; occasionally refers for radiotherapy | tx=fasciectomy:hand,dermofasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private,rt_referral
+Mr Mohammad Waseem | | | Macclesfield | | | GB | | | | Mentions steroid injections on his website (BDS) | tx=fasciectomy:hand,needle_aponeurotomy:hand,steroid_injection:hand
+Mr Steve Royle | Stepping Hill Hospital | | Stockport | | | GB | | | | Private in Cheadle and Whalley Range | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Fizan Younis | Lancashire Hand Clinic | | Blackburn | | | GB | | | | Also Clitheroe and Preston; one-stop treatment in private clinic | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs,private
+Mr Rahul Kakkar | Morecambe Bay University Hospitals | | Lancaster | | | GB | | | |
+Mr Saurabh Odak | | | Morecambe | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Daniel Brown | Spire Liverpool Hospital | | Liverpool | | | GB | | | | Consultant orthopaedic surgeon
+Mr Irfan U. Khan | | | Liverpool | | | GB | | | | Limited fasciectomy; also private in Bolton and Ormskirk
+Mr Neil Walker | | | Liverpool | | | GB | | | | | flags=nhs,private
+Mr Graham Cheung | | | Liverpool | | | GB | | | |
+Mr Stephen Lipscombe | Whiston Hospital | | St Helens | | | GB | | | | | flags=nhs,private
+Mr Christian West | Whiston Hospital | | St Helens | | | GB | | | | | flags=nhs,private
+Mr Younis; Mr Jesudason; Mr Alao; Mr Kennedy | Warrington private clinic | | Warrington | | | GB | | | | Will discuss radiotherapy referral if suitable | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=private,rt_referral
+Ms Kelly; Ms Gill Rose | Sheffield Teaching Hospitals, hand centre | | Sheffield | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Gavin Miller | | | Sheffield | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Sudhindran Ankarath | | | Huddersfield | | | GB | | | | | flags=nhs,private
+Mr Russ Jeffers | | | Bradford | | | GB | | | | Also Bingley | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr David Dickson | | | West Yorkshire | | | GB | | | | Including recurring and difficult cases | flags=revision_surgery
+Ms Catherine Hernon; Mr Daniel Thornton | Leeds Teaching Hospitals | | Leeds | | | GB | | | | | flags=nhs
+Mr Robert Bains | | | Leeds | | | GB | | | | Special interest in Dupuytren's | flags=nhs,private
+Mr Tim Halsey | | | Rotherham | | | GB | | | | Also Sheffield | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Jay Paniker | | | Rotherham | | | GB | | | | | flags=nhs,private
+Mr Alex Kocheta | | | Rotherham | | | GB | | | | | flags=nhs,private
+Mr James Heaney; Mr Muhammed Riaz | Hull plastic surgery | | Hull | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Chris Coapes | Ravencroft Orthopaedics | | Newcastle upon Tyne | | | GB | | | | Also Darlington and Middlesbrough | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Richard Milner | Royal Victoria Infirmary | | Newcastle upon Tyne | | | GB | | | |
+Mr Auyeung | | | Durham | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Darren Chester | Worcestershire Royal Hospital | | Worcester | | | GB | | | | Private at Droitwich Spa Hospital and Spire Parkway | tx=fasciectomy:hand,dermofasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private
+Mr Feiran Wu | Birmingham Arm Clinic | | Birmingham | | | GB | | | | | flags=nhs,private
+Mr Brewster; Mr Webster; Mr Waldram; Mr Powers; Ms Webb | University Hospitals Birmingham | | Birmingham | | | GB | | | | Special interest in Dupuytren's (BDS) | flags=nhs
+Mr Michael Craigen | University Hospitals Birmingham | | Birmingham | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Ross Fawdington | University Hospitals Birmingham | | Birmingham | | | GB | | | | Private in Birmingham and Wolverhampton | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs,private
+Mr Anindya Lahiri | | | Birmingham | | | GB | | | | Plastic & hand surgeon specialising in Dupuytren's; also Sutton Coldfield, Solihull | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Alexander Piers Moreau | | | Telford | | | GB | | | | | flags=nhs,private
+Ms Anna Moon | | | Worcester | | | GB | | | | Also Warwickshire | flags=nhs,private
+Mr David Izadi | George Eliot Hospital | | Nuneaton | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Nicholas Neal | University Hospitals of North Midlands | | Stoke-on-Trent | | | GB | | | | Special interest in Dupuytren's
+Mr Kelly | | | Shrewsbury | | | GB | | | | Mild and advanced cases | flags=nhs,private
+Mr Matt Venus | University Hospitals Coventry and Warwickshire | | Coventry | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+Mr Matt Stanislas | | | Stratford-upon-Avon | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=private
+Mr Roger Sloan | | | Warwick | | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr G. Shyamalan | | | Birmingham | | | GB | | https://www.handsurgeryconsultant.co.uk | | Birmingham and Coventry hospitals, private clinic | tx=needle_aponeurotomy:hand
+Prof Joseph Dias | University Hospitals of Leicester | | Leicester | | | GB | | | | Professor of Hand and Orthopaedic Surgery
+Mr Chris Bainbridge; Mr Peter Russell; Mr Dan Armstrong; Mr Carlos Heras-Palou; Mr Tim Cresswell | Pulvertaft Hand Centre | | Derby | | | GB | | https://www.pulvertafthandcentre.org.uk | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Ms Mary O'Brien | Pulvertaft Hand Centre | | Derby | | | GB | | | | "All types of Dupuytren's treatments" (BDS); private at Royal Derby Hospital and Nuffield Derby | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs,private
+Mr Dalvi Humzah | | | Nottingham | | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr Michael Gale | Newark Hospital / King's Mill Hospital | | Newark | | | GB | | | |
+Prof Tim Davis | | | Nottingham | | | GB | | | | | tx=fasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private
+Mr N. Downing | | | Nottingham | | | GB | | | |
+Mr Alistair Jepson | Three Shires Hospital / Northampton General Hospital | | Northampton | | | GB | | | | | flags=nhs,private
+Mr Henk Giele; Mr Dominic Furniss; Mr Ian McNab; Ms Spiteri; Ms Sarah Tucker; Mr Nicholas Riley | Oxford University Hospitals, Hand and Wrist Service | | Oxford | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Ian Grant; Mr Phillip Johnston; Miss Tereze Laing; Mr Alex Reid; Mr James Hopkinson-Woolley; Mr Aaron Rooney | Cambridge Hand Unit (Addenbrooke's) | | Cambridge | | | GB | | | | Most surgery under WALANT (wide-awake, local anaesthetic, no tourniquet) | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private,walant
+Mr Adrian Chojnowski; Ms Claire Edwards | Norfolk and Norwich University Hospitals | | Norwich | | | GB | | | | Special interest in Dupuytren's
+Mr Matthew Hynes | | | Colchester | | | GB | | | |
+Mr Patrick Goon; Mr Foiz Ahmed | Lister Hospital / QEII Hospital | | Stevenage | | | GB | | | | | tx=fasciectomy:hand,needle_aponeurotomy:hand | flags=nhs
+Mr Jonathan Jones | | | Peterborough | | | GB | | | | | tx=fasciectomy:hand,needle_aponeurotomy:hand
+Mrs Mary-Clare Miller | | | Peterborough | | | GB | | | |
+Mr Andrew McKee | Fitzwilliam Hospital | | Peterborough | | | GB | | | | Also Bourne | tx=fasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private
+Mr Shahrier Sarker | Broomfield Hospital | | Chelmsford | | | GB | | | | | tx=fasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private
+Mr Barabas; Mr Patel; Mr Norris; Mr Dwyer | Hinchingbrooke Hospital | | Huntingdon | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+Mr Jeremy Read | West Hertfordshire Hospitals | | Watford | | | GB | | | | Also Harpenden and Bushey | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Wimsey | | | Hertfordshire | | | GB | | | | North London and nearby | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=private
+Miss Anthea Davy | University College Hospital (UCLH) | | London | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr Andy Hacker | | | Milton Keynes | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Alastair Graham | | | Buckinghamshire | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Anthony Heywood | | | Buckinghamshire | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+ | Shoulderelbowhand Clinics | | Bedford | | | GB | | | | "Full range of treatments" (BDS); also Milton Keynes and Banbury
+Mr Srinivasan Shyamsundar | | | Milton Keynes | | | GB | | | | Also Kettering
+Mr Francis Lam | | | London | | | GB | | | | Primary and revision surgery | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=revision_surgery
+Ms Shamim Umarji | | | London | | | GB | | | | | tx=fasciectomy:hand,needle_aponeurotomy:hand | flags=nhs,private
+Mr Norbert Kang | Luton & Dunstable University Hospital | | Luton | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Jamie McKenzie | North West London Hospitals | | London | | | GB | | | | Trained in NA in Paris by its originators (BDS) | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=trained_paris
+Mr Mark Phillips | Circle Health | | London | | | GB | | | | Musicians clinic at the Circle Hospital | flags=musicians
+Mr Rupert Eckersley; Ms Alice Bremner-Smith; Ms Kate Owers; Mr Maxim Horwitz; Ms Effie Katsarma | Chelsea and Westminster Hospital | | London | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Gordon McArthur; Ms Gill Smith | Chelsea and Westminster Hospital | | London | | | GB | | | | Also treat children | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,treats_children
+Mr Philip Mathew | Chelsea and Westminster Hospital | | London | | | GB | | | | Full surgical range from PNF to dermofasciectomy; also private | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs,private
+Mr Giles Bantick | | | London | | | GB | | | | Majority of his patients are Dupuytren patients; outpatient needle release | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=private
+Mr Richard Sinnerton | | | Woking | | | GB | | | | Also Brentford, Windsor, Guildford | tx=needle_aponeurotomy:hand | flags=private,nhs
+Mr Sam Gidwani | Guy's and St Thomas' / London Hand Clinic | | London | | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr Oliver Harley | | | Maidstone | | | GB | | | | London, Sussex, Surrey, Kent | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs,private
+Mr Andrew Smith | | | Margate | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Prof Bijayendra Singh | | | Maidstone | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Miss Laura Hamilton | University Hospitals Sussex | | Brighton | | | GB | | | | GP or surgeon referral; also Haywards Heath | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand | flags=nhs
+ | Guildford Upper Limb Clinic | | Guildford | | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr Donald Sammut | | | Bath | | | GB | | | | Difficult and recurring cases; also London | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=revision_surgery
+Miss Valerie Nunez | Frimley Health | | Frimley | | | GB | | https://www.handsonsurgery.com | | Private in Frimley and Kingston upon Thames | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Paul Davey | | | Wimbledon | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+Mr Philip Sauvé | Spire Portsmouth Hospital | | Portsmouth | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=private
+Mr Alex Nicholls | | | Hampshire | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mrs Lisa Leonard | | | Sussex | | | GB | | | | | flags=nhs,private
+ | The Horder Centre | | Crowborough | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+ | The McIndoe Centre | | East Grinstead | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mr David Llewellyn Clark | Worthing Hospital / Circle Goring | | Worthing | | | GB | | | | | tx=needle_aponeurotomy:hand | flags=nhs,private
+Mr Nick Little | Epsom General Hospital | | Epsom | | | GB | | | | | tx=needle_aponeurotomy:hand
+ | Sussex Hand Surgery | | Sussex | | | GB | | | |
+Mr Chris Williams | Royal Sussex County Hospital / Montefiore Hospital | | Brighton | | | GB | | | |
+Ms Tanaya Sarkhel | | | Surrey | | | GB | | | | | flags=nhs,private
+Prof David Warwick | | | Southampton | | | GB | | https://www.handsurgery.co.uk | | Also Lymington, Winchester and Jersey | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Vasileios Kefalas | Practice Plus Group Hospital | | Southampton | | | GB | | | | Private second opinions | flags=nhs,private
+Mr Alistair Phillips | | | Southampton | | | GB | | | | | tx=needle_aponeurotomy:hand
+Mr Daniel Gheorghiu | | | Isle of Wight | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand,dermofasciectomy:hand
+Mr Tim Crook; Ms Rebecca Mills | Dorset County Hospital / Dorset Hand Surgery | | Dorchester | | | GB | | | | Also Poole | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs,private
+Mr Bhatia | Bristol Hand Clinic | | Bristol | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Ms Emily West | | | Bristol | | | GB | | | |
+Mr Henderson | North Bristol NHS Trust | | Bristol | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand | flags=nhs
+Mr Andrew Clarke | | | Taunton | | | GB | | | | | tx=needle_aponeurotomy:hand,fasciectomy:hand
+Mrs Rebecca Dunlop | | | Truro | | | GB | | | |
+Ms Fullilove | Derriford Hospital | | Plymouth | | | GB | | | |
+Mr Sameer Gujral | Derriford Hospital | | Plymouth | | | GB | | | | | flags=nhs,private
+Mr Jeremy Southgate | | | Poole | | | GB | | | |
+Mr Sean Walsh | | | Dorchester | | | GB | | | |
+Mr Anmar Al-shawi | Royal Cornwall Hospitals | | Truro | | | GB | | | |
+Mr Rob Poulter | Royal Cornwall Hospitals | | Truro | | | GB | | | | | flags=nhs,private
+Mr Beardsmore | | | Plymouth | | | GB | | | | | flags=nhs,private
+Mr Irshad A. Patel | Royal Devon and Exeter Hospital | | Exeter | | | GB | | | | | tx=needle_aponeurotomy:hand
+Ms Patricia A. Eadie | St James's Hospital | | Dublin | | | IE | | | | "Internationally renowned Dupuytren's surgeon" (BDS); also private
+Prof Seán M. Carroll | | | Dublin | | | IE | | | | | tx=needle_aponeurotomy:hand
+Dr Sally Cheng | Asia Medical | | Hong Kong | | | HK | | | info@asiamedical.hk | Also Taiwan and mainland China | tx=needle_aponeurotomy:hand
+Dr Christopher Rowland Payne | | | London | | | GB | | | | Dermatologist; treats Dupuytren's, Ledderhose and Peyronie's with PNF, steroid or hyaluronidase | tx=needle_aponeurotomy:hand,steroid_injection:hand,steroid_injection:foot,hyaluronidase_injection:foot | flags=early_stage
+Jordan Smith | Blackberry Clinic | | Milton Keynes | | | GB | | | | Physiotherapist; steroid injections for early Dupuytren's; also Oxford | tx=steroid_injection:hand,hand_therapy:hand | flags=early_stage
+Mrs Rebecca Messenger | Advance Body Therapies | | Swansea | Wales | | GB | 07965 241731 | https://www.advancebodytherapies.com | advancebodytherapies@gmail.com | Osteopathy and massage, at any stage or post-surgery | tx=hand_therapy:hand
+
+@source id=bds_uk url=https://dupuytrens-society.org.uk/treatment/doctors-clinics-organisations/ page_modified=2026-10-27 treatments=radiotherapy:hand,radiotherapy:foot specialty=radiation_oncology
+# --- Radiotherapy (BDS: "for Dupuytren and Ledderhose") ---
+Dr Schipani | Beatson West of Scotland Cancer Centre | | Glasgow | Scotland | | GB | | | | NHS, catchment area only; orthopaedic surgeon referral required | flags=nhs,referral_required
+Dr I. Nixon | Beatson West of Scotland Cancer Centre / Ross Hall Hospital | | Glasgow | Scotland | | GB | | | | | flags=nhs
+Dr Richard Shaffer | Dupuytren's UK (GenesisCare) | | London | | | GB | 07584 532397 | https://www.dupuytrensuk.com | pa.drshaffer@genesiscare.co.uk | Private low-dose RT for early-stage Dupuytren's and Ledderhose. Consults in London, Guildford, Nottingham, Alderley Edge; treats at ~16 sites in England | flags=private,early_stage
+Dr Ian Lampkin | Clatterbridge Private Clinic | | Liverpool | | | GB | | | | Also Theralife Clinic near Manchester | flags=private
+Dr James Wylie | Theralife Clinic | | Alderley Edge | | | GB | | | | | flags=private
+Dr Tom Roques | Norfolk and Norwich University Hospitals | | Norwich | | | GB | | | | NHS only | flags=nhs
+Dr Krishnaswamy Madhavan | Southend University Hospital | | Southend-on-Sea | | | GB | | | | NHS referral (GP referral is enough) | flags=nhs
+Dr John Glees | Cancer Centre London | | Wimbledon, London | | | GB | | | | Private only; also treats Peyronie's | flags=private
+Dr Morris | Guy's Hospital | | London | | | GB | | | | NHS only; GP or hand surgeon referral | flags=nhs,referral_required
+Dr De Francesco | HCA Harley Street / London Bridge | | London | | | GB | | | hazel.evans@hcaconsultant.co.uk | Private | flags=private
+Dr Mike C. Bayne | Poole Hospital | | Poole | | | GB | | | | First UK hospital to offer RT for Dupuytren's on the NHS; now private only | flags=private
+Dr Amarnath Challapalli | GenesisCare Bristol (Aztec West) | | Bristol | | | GB | | | Toni.hewlett@genesiscare.co.uk | Private | flags=private
+Dr Osama Salib | Blackrock Health Hermitage Clinic | | Dublin | | | IE | | https://www.blackrockhealth.com/consultants/dr-osama-salib | |
+
+@source id=bds_uk url=https://dupuytrens-society.org.uk/treatment/doctors-clinics-organisations/ page_modified=2026-10-27 treatments=foot_care:foot specialty=podiatry
+# --- Ledderhose ---
+Dr Markus Maiden | | | Margate | | | GB | | | | GP with special interest in Ledderhose; ultrasound diagnosis and steroid injections | tx=ultrasound_diagnosis:foot,steroid_injection:foot | specialty=general_practice
+ | Sussex Foot Centre | | Sussex | | | GB | | | | Diagnostic ultrasound for Ledderhose nodules; steroid injection | tx=ultrasound_diagnosis:foot,steroid_injection:foot
+Mr George Flanaghan | Northampton General Hospital | | Northampton | | | GB | | | | Podiatric surgeon: insoles, RT referral, surgery or injections; also monthly in Kirkby Lonsdale | tx=orthotics:foot,steroid_injection:foot,foot_surgery:foot | flags=nhs,private,rt_referral
+Mr A. L. Murphy | Euxton Hall Hospital | | Chorley | | | GB | | | | Consultant podiatric surgeon; NHS in Blackpool | tx=foot_surgery:foot | flags=nhs,private
+Mr C. Chandrasekar | Royal Liverpool and Broadgreen University Hospitals | | Liverpool | | | GB | | | | Limited fasciectomy for Ledderhose "with good result" (BDS) | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+Mr Ian Reilly | | | Northampton | | | GB | | | | "A range of treatments for Ledderhose" (BDS)
+Mr Hisham Shalaby | | | Edinburgh | Scotland | | GB | | | | Foot surgery for Ledderhose | tx=foot_surgery:foot | flags=nhs,private | specialty=foot_ankle_surgery
+Ms Katy Knox | | | Kilmarnock | Scotland | | GB | | | | Podiatrist with diagnostic ultrasound accreditation; interest in Ledderhose | tx=ultrasound_diagnosis:foot
+ | Dynamic Motion Wales | | Swansea | Wales | | GB | | | | Podiatrists with an interest in Ledderhose
+Mr F. Webb | | | Buxton | | | GB | | | | Podiatry team offering steroid injections for Ledderhose | tx=steroid_injection:foot
+Mr Steven Dowdeswell | | | Telford | | | GB | | | | Podiatrist with an interest in Ledderhose
+Mr Derek Protheroe | | | Llanelli | Wales | | GB | | | | MSK podiatrist with special interest in Ledderhose; conservative options and RT referral | tx=orthotics:foot | flags=nhs,private,rt_referral
+Mr Jim Carmichael | North West Anglia NHS Trust | | Peterborough | | | GB | | | | Surgery and possible RT referral; also Stamford | tx=foot_surgery:foot | flags=nhs,rt_referral
+ | The Podiatry Clinic | | London | | | GB | | | | Injections and creams for Ledderhose | tx=steroid_injection:foot
+ | London Foot and Ankle Clinic | | London | | | GB | | | | Surgery for plantar fibromas | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+ | GaitLab | | London | | | GB | | | | Podiatrists; also Surrey | tx=orthotics:foot
+Prof Tim Briggs | | | Harpenden | | | GB | | | | Surgery for plantar fibromas; will discuss RT referral | tx=foot_surgery:foot | flags=rt_referral | specialty=foot_ankle_surgery
+Ms Suzanne Taylor | | | London | | | GB | | | | Consultant podiatrist
+Mr Shoaib | | | Manchester | | | GB | | | | Plantar fibroma surgery | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+Mr Sam Singh | | | Kent | | | GB | | | | Also Chelsea | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+Mr Asad Syed | | | Chester | | | GB | | | | Also Wrexham | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+Mr James Stanley; Mr Adam Budgen | North Yorkshire Orthopaedic Specialists | | York | | | GB | | | | | tx=foot_surgery:foot | specialty=foot_ankle_surgery
+Mr Mike Uglow | | | Southampton | | | GB | | | | Foot and ankle surgeon with Ledderhose experience; treats children. Also Basingstoke, Jersey | tx=foot_surgery:foot | flags=treats_children | specialty=foot_ankle_surgery
+ | The Barn Clinic | | Sheffield | | | GB | | http://www.thebarnclinic.co.uk/ | | Cryosurgery and laser treatment for plantar fibroma | tx=cryoablation:foot

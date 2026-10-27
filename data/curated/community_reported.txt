@@ -1,0 +1,11 @@
+# Doctors that r/DupuytrenDisease patients name repeatedly but no patient-organisation list includes yet.
+# Added only when the NPI registry confirms a single matching clinician (name, specialty, city) for the practice
+# patients describe. Treatments are what patients report, so they carry "patient reported" evidence, never "listed".
+# Candidates come from data/build/reddit_unmatched.json. Same format as the other curated files.
+
+@source id=community url=https://www.reddit.com/r/DupuytrenDisease/ page_modified=2026-10-27 specialty=hand_surgery
+
+Dr Erek Latzka | Boston Sports & Biologics | 20 Walnut St Ste 14 | Wellesley | MA | 02481 | US | 781-591-7855 | | | Patients describe ultrasound-guided Depo-Medrol (steroid) injections for early nodules and cords; NPI lists him as physical medicine & rehabilitation / sports medicine. https://www.reddit.com/r/DupuytrenDisease/comments/1f7jpef/ | tx=steroid_injection:hand | flags=early_stage | specialty=sports_medicine
+Dr Adam Rives | Associated Hand Surgeons of Santa Barbara | 2323 De La Vina St Ste 201 | Santa Barbara | CA | 93105 | US | 805-682-2267 | | | Patients report Dupuytren's surgery here. https://www.reddit.com/r/DupuytrenDisease/comments/1cvtp7l/comment/l4xpv8s/ | tx=fasciectomy:hand
+Dr Mark Greyson | UCHealth | 1635 Aurora Ct | Aurora | CO | 80045 | US | 720-848-0000 | | | A patient reports he is open to trying Depo-Medrol injections. https://www.reddit.com/r/DupuytrenDisease/comments/1k4st5t/comment/modet7q/ | tx=steroid_injection:hand | flags=early_stage | specialty=plastic_surgery
+Dr Patrick Richard | Rocky Mountain Cancer Centers | 4715 Arapahoe Ave | Boulder | CO | 80303 | US | 303-285-2000 | | | Patients report radiation therapy for Dupuytren's here, mostly covered by insurance. https://www.reddit.com/r/DupuytrenDisease/comments/1k4st5t/comment/molyzth/ | tx=radiotherapy:hand | specialty=radiation_oncology

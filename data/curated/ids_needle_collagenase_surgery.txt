@@ -1,0 +1,204 @@
+# Transcribed by hand from International Dupuytren Society (IDS) lists. Format: see ids_radiotherapy.txt.
+
+@source id=ids_na_na url=https://www.dupuytren-online.info/na-list-north-america/ treatments=needle_aponeurotomy:hand specialty=hand_surgery
+# IDS: "CHS = Certified Hand Surgeon". The list is old in places (originally compiled by a forum member).
+
+Dr Michael Fitzmaurice | Fitzmaurice Institute for Minimally Invasive Hand Surgery | 19820 N 7th Street Suite 115 | Phoenix | AZ | 85024 | US | (480) 719-4750 | | |
+Dr Giles W. Becker | University of Arizona Medical Center, Alvernon Physicians Offices | 707 N Alvernon Way, Suite 201 | Tucson | AZ | 85711 | US | (520) 874-2637 | | |
+Dr Joel R. Goode | Tucson Orthopaedic Institute | 2424 N. Wyatt Dr | Tucson | AZ | 85712 | US | (520) 784-6200 | https://www.tucsonortho.com | |
+Dr Prosper Benhaim | UCLA Hand Center | 200 UCLA Medical Plaza, Suite 140 | Los Angeles | CA | 90095 | US | (310) 794-7784 | | | Certified hand surgeon (per IDS)
+Dr Keith Denkler | | 275 Magnolia Avenue | Larkspur | CA | 94939 | US | (415) 924-6010 | | | Certified hand surgeon (per IDS)
+Dr Jann Johnson | Kaiser Permanente San Rafael | 99 Montecillo Rd. | San Rafael | CA | 94903 | US | | | |
+Dr Donald Lewis | Muir Orthopaedic Specialists | 2405 Shadelands Drive | Walnut Creek | CA | 94598 | US | (925) 939-8585 | https://www.dupuytrens.biz | |
+Dr Ross Nathan | The Hand & Wrist Center | 3918 Long Beach Blvd, Suite 100 | Long Beach | CA | 90807 | US | (562) 424-9000 | https://www.needleaponeurotomy.com/ | |
+Dr Matthew Scott | Dupuytren's Center Chicago | 3000 N Halsted, Suite 724 | Chicago | IL | 60657 | US | (773) 844-2800 | https://www.dupuytrenscenterchicago.com | dupuytrenscenterchicago@yahoo.com |
++ Dupuytren's Center Chicago (Denver office) | 12157 W. Cedar Drive, Ste 200 | Lakewood | CO | 80228 | US | (303) 656-9963
++ Dupuytren's Center Chicago (Boise office) | 1674 W. Hill Road, #9 | Boise | ID | 83702 | US | (773) 844-2800
+Dr Andy Nelson | The Hand To Shoulder Center | 1320 West Main Street, Building 2 | Waterbury | CT | 06708 | US | (203) 755-7115 | | | Certified hand surgeon (per IDS)
+Dr Mark Vitale | Orthopaedic & Neurosurgery Specialists | 6 Greenwich Office Park | Greenwich | CT | 06831 | US | (203) 869-1145 | | |
++ Orthopaedic & Neurosurgery Specialists | 5 High Ridge Park | Stamford | CT | 06905 | US | (203) 869-1145
+Dr Jeffrey Wint | Hand Center of Western Massachusetts | 3550 Main Street, Suite 204 | Springfield | MA | | US | (413) 733-2204 | http://www.handctr.com/ | |
++ Hand Center of Western Massachusetts | 85 South Street | Ware | MA | | US | (413) 967-2340
++ Hand Center of Western Massachusetts | 115 Elm Street, Suite 208 | Enfield | CT | | US | (860) 272-2996
+Dr Angelo N. Incorvaia | The Hand & Wrist Institute of Palm Beach | 10301 Hagen Ranch Road, Ste A750 | Boynton Beach | FL | 33437 | US | (561) 374-7372 | | |
+Dr Thomas Saylor | OrthoCare Florida | 733 US Hwy 1 | North Palm Beach | FL | 33408 | US | (561) 840-1090 | https://www.orthocarefl.com | |
+Dr Veronica Diaz | | 1002 S Old Dixie Hwy, Suite 105 | Jupiter | FL | 33458 | US | (561) 746-7686 | | |
+Dr Stuart D. Patterson | Central Florida Orthopaedic Surgery Associates | 2000 East Edgewood Drive, Suite 112 | Lakeland | FL | 33803 | US | (863) 666-3436 | https://www.cfosa.com | |
+Dr Douglas Carlan | Eaton Orthopaedics (former) | 900 Carillon Parkway #311 | St Petersburg | FL | 33716 | US | (727) 573-5626 | | |
+Dr Stephen Helgemo; Dr Ivan Olarte | Florida Handcenter | 18344 Murdock Circle | Port Charlotte | FL | 33948 | US | (877) 892-4263 | https://www.floridahandcenter.com | | Florida Handcenter is where Dr Charles Eaton (now retired) trained many US surgeons in NA
+Dr Kay Kirkpatrick | Resurgens Orthopaedics | 5671 Peachtree-Dunwoody Rd, Suite 700 | Atlanta | GA | 30342 | US | (404) 847-9999 | | |
+Dr David Kline | Dupuytren's Clinic | 750 Warm Springs Ave, Suite A | Boise | ID | 83712 | US | (208) 344-5628 | https://www.dupuytrenscenter.com | |
++ Dupuytren's Clinic (Portland) | 9370 SW Greenburg Rd, Franklin Building, Suite 102 | Portland | OR | 97223 | US | (503) 233-8805
+Dr Jonathan Cluett | Orthopedic Associates of Northern Berkshire | 77 Hospital Avenue, Suite 107 | North Adams | MA | 01247 | US | (413) 664-6111 | | |
+Dr Virginia Hung | Winchester Hand Surgery / Dellon Institute | 611 Main St, 3rd Floor | Winchester | MA | 01890 | US | (781) 721-0500 | | |
+Dr Stephen E. Werner | | 1349 South Rochester Road, Ste 225 | Rochester Hills | MI | 48307 | US | (248) 650-5300 | | |
+Dr Marco Rizzo | Mayo Clinic, Orthopedic Surgery | 200 First St. SW | Rochester | MN | 55905 | US | (507) 284-3689 | | |
+Dr Nicholas J. Meyer | St. Croix Orthopaedics | | Stillwater | MN | | US | (651) 351-2639 | | |
+Dr Charles Goldfarb; Dr Martin Boyer | Washington University Orthopedics | 14532 S. Outer Forty Drive | Chesterfield | MO | 63017 | US | (314) 514-3500 | https://www.ortho.wustl.edu | |
++ Center for Advanced Medicine, Barnes-Jewish Hospital, Suites A & B, 6th Fl | St. Louis | MO | 63110 | US | (314) 514-3500
+Dr Ryan J. Grabow | Dupuytren's Clinic of Nevada | 2779 Sunridge Heights Parkway | Henderson | NV | 89052 | US | (702) 433-9533 | https://www.doctorgrabow.com | | Certified hand surgeon (per IDS)
+Dr Gary Pess; Dr Teddy L. Atik | Central Jersey Hand Surgery | 2 Industrial Way West | Eatontown | NJ | 07724 | US | (732) 542-4477 | https://www.centraljerseyhand.com | | Certified hand surgeons (per IDS)
+Dr James J. Kelly | The Hand and Shoulder Center of WNY | 3 Gates Circle | Buffalo | NY | 14209 | US | (716) 887-4040 | | |
+Dr Keith B. Raskin | Raskin and Rettig Hand Surgery | 317 East 34th Street, 3rd Floor | New York | NY | 10016 | US | (212) 889-8600 | https://www.keithraskinmd.com | |
+Dr David Fleiss | New York Neuro and Rehab Center | 4470 Broadway | New York | NY | 10040 | US | (212) 567-0175 | | |
+Dr David C. Napoli | Blue Ridge Bone and Joint | 800 Fleming Street | Hendersonville | NC | 28791 | US | (828) 698-4318 | | |
+Dr Avrum I. Froimson | Cleveland Clinic Beachwood | 26900 Cedar Road | Beachwood | OH | 44122 | US | (216) 839-3714 | | |
+Dr Peter S. Barre | Hand Surgery Dayton | 2350 Miami Valley Dr., Ste 310 | Centerville | OH | 45459 | US | (937) 435-4263 | https://www.handsurgdayton.com | | Certified hand surgeon (per IDS)
+Dr Charles Leinberry | Rothman Institute | 925 Chestnut St., 5th Floor | Philadelphia | PA | 19107 | US | (800) 321-9999 | https://www.rothmaninstitute.com | |
+Dr Fernando Herrera | MUSC | 96 Jonathan Lucas Street, CSB 404 | Charleston | SC | 29425 | US | (843) 792-6228 | | herreraf@musc.edu |
+Dr William Bourland | The Hand Clinic | 6286 Briarcrest Avenue | Memphis | TN | 38120 | US | (901) 259-1600 | | | IDS: a patient reported he no longer practices
+Dr Nilpesh Patel | Lakewood Orthopaedics and Sports Medicine | 1130 Beachview Rd. Suite 100 | Dallas | TX | 75218 | US | (469) 341-5676 | | |
+Dr Stewart Hilliard | North Texas Hand Center | 3201 Colorado Blvd, Suite 103 | Denton | TX | 76210 | US | (940) 442-6760 | | |
+Dr David Hildreth | Richmond Bone & Joint Surgery | 1517 Thompson Hwy. | Richmond | TX | 77469 | US | (281) 344-1715 | | | Also listed at 6560 Fannin, Houston and a Sugar Land clinic
+Dr Harris S. Rose | Texas Upper Extremity Specialists | 12201 Renfert Way, Suite 115 | Austin | TX | 78758 | US | (512) 551-0375 | | |
+Dr Christian H.G. Bean | Green Mountain Orthopaedic Surgery | 130 Fisher Rd, Suite 2-2 | Berlin | VT | 05602 | US | (802) 229-2663 | https://www.greenmountainortho.com | |
+Dr William B. Ericson Jr | Ericson Hand Center | 6100 219th St SW, Suite 540 | Mountlake Terrace | WA | 98043 | US | (425) 776-4444 | https://www.ericsonhand.com | |
+Dr Roger Blauvelt | Cascade Orthopaedics | 122 3rd Street NE | Auburn | WA | 98059 | US | (253) 833-7750 | https://www.dupuytrensinseattle.com | |
+Dr Jeffrey Pratt | | 520 N. Chelan Avenue | Wenatchee | WA | 98801 | US | (509) 662-2211 | | |
+Dr Jerry Huang | University of Washington Medical Center, Orthopaedics | | Seattle | WA | | US | | | |
+Dr Greg P. Watchmaker | The Milwaukee Hand Center | 2801 W KK River Parkway | Milwaukee | WI | 53215 | US | (262) 241-9224 | | |
+Dr Jonathan L. Tueting | UW Health Orthopedic Surgery Clinic | 600 Highland Avenue | Madison | WI | 53792 | US | (608) 263-7540 | | |
+Dr Alexander Anzarut | | 201-2763 Beverly Street | Duncan | BC | V9L 6Y9 | CA | (250) 597-2064 | | |
+Dr James Boyle | University of British Columbia, Plastic Surgery | 943 W Broadway, Suite 350 | Vancouver | BC | V6N 1R1 | CA | (604) 737-7492 | | |
+Dr Peter Gropper | Specialist Referral Clinic | 555 West 12th Avenue, Suite 121 | Vancouver | BC | V5Z 3X7 | CA | (604) 737-7464 | https://www.specialistclinic.ca | info@specialistclinic.ca |
+Dr Phil Narini | Oshawa Clinic Group | 117 King Street East | Oshawa | ON | L1H 1B9 | CA | (905) 721-4300 | | |
+Dr Paul Binhammer | Sunnybrook Health Sciences Centre, Hand Wrist and Microvascular Surgery | 2075 Bayview Ave M1 | Toronto | ON | M4N 3M5 | CA | (416) 480-6731 | | |
+Dr Jean-Paul Brutus | | 1605 Marcel-Laurin | Saint-Laurent | QC | H4R 0B7 | CA | (514) 509-2000 | https://www.drbrutus.com | info@drbrutus.com |
+
+@source id=ids_na_uk url=https://www.dupuytren-online.info/na-list-uk/ page_modified=2017-12-21 treatments=needle_aponeurotomy:hand specialty=hand_surgery
+# IDS UK list was last modified in 2017; treat as possibly stale.
+
+Mr Jamie McKenzie | Trauma and Orthopaedic Surgery | Claverton Down Road, Combe Down | Bath | Somerset | BA2 7BR | GB | 01225 835555 | | |
+Mr Michael Craigen | Priory Hospital Edgbaston | Priory Road | Birmingham | West Midlands | B5 7UG | GB | 0121 445 4072 | | |
+Mr G. Shyamalan | Heart of England NHS Trust / Spire Parkway Hospital Solihull / Spire Little Aston | | Solihull | West Midlands | | GB | | https://www.handsurgeryconsultant.co.uk | |
+Mr Ian Harvey | The Grosvenor Hospital Chester | Wrexham Road | Chester | Cheshire | CH4 7QP | GB | 01244 680444 | | |
+Mr Chris Bainbridge; Mr Peter Russell | Pulvertaft Hand Centre, Royal Derby Hospital | Uttoxeter Road | Derby | | DE22 3NE | GB | 01332 785252 | https://www.pulvertafthandcentre.org.uk | |
+Mr H.J.C.R. Belcher | Queen Victoria Hospital | Holtye Rd | East Grinstead | Sussex | RH19 3DZ | GB | 01342 414236 | | |
+Miss Valerie Nunez | Frimley Park Hospital | Portsmouth Road | Frimley | Surrey | GU16 7UJ | GB | 07590 652881 | https://www.handsonsurgery.com | | Also at The Hand Clinic Windsor and Clare Park Hospital Farnham
+Mr Mark Broadbent | Inverclyde Royal Hospital (NHS) | Larkfield Road | Greenock | Scotland | PA16 0XN | GB | 01475 504712 | https://www.handclinics.co.uk | |
++ Nuffield Health Glasgow Hospital | 25 Beaconsfield Road | Glasgow | Scotland | G12 0PJ | GB | 0141 334 9441
++ Kings Park Hospital Stirling | | Stirling | Scotland | FK7 9PU | GB | 01786 451669
+Mr Boyd Goldie | Whipps Cross University Hospital | Leytonstone | London | | E11 1NR | GB | 020 8245 7157 | | |
+Dr Christopher Rowland Payne | The London Clinic | 5 Devonshire Place | London | | W1G 6HL | GB | 020 7224 1228 | | | Consultant dermatologist
+Dr Yvonne Juhasz | Walk In Clinic | 13 Queen Anne Street | London | | W1G 9JH | GB | 0207 101 0355 | | |
+Mr Henk Giele | Oxford University Hospitals / Nuffield Orthopaedic Centre | Headley Way, Headington | Oxford | | OX3 9DU | GB | 01865 307421 | | |
+Mr Philip Sauvé | Queen Alexandra Hospital, Trauma & Orthopaedics | Southwick Hill, Cosham | Portsmouth | | PO6 3LY | GB | | | |
++ Spire Portsmouth Hospital | Bartons Road | Havant | | PO9 5NP | GB | 023 9226 8558
+Prof David Warwick | Hand Clinic, Wessex Nuffield Hospital | | Southampton | | SO53 2DW | GB | | https://www.handsurgery.co.uk | |
+Dr David M. Evans | The Hand Clinic | Dedworth Road, Oakley Green | Windsor | | SL4 4LH | GB | 01753 839706 | | |
+
+@source id=ids_na_world url=https://www.dupuytren-online.info/na-list-other-countries/ page_modified=2026-10-21 treatments=needle_aponeurotomy:hand specialty=hand_surgery
+
+Dr Shane O'Neill | | Suite 9, 56 Neridah Street | Chatswood | NSW | 2067 | AU | 1300 376 634 | https://www.drshaneoneill.com.au | | Plastic & hand surgeon
+Dr David Dilley | | 9 Albion St | Harris Park | NSW | 2150 | AU | (02) 9687 8735 | | dilleypractice@gmail.com |
+Dr Nicholas Smith | Specialty Orthopaedics, Norwest Private Hospital | Suite G18, 11 Norbrik Drive | Bella Vista | NSW | 2153 | AU | (02) 9806 3333 | https://www.specialtyorthopaedics.com.au | |
+Dr Jennifer Green | Canberra Hand Centre, Canberra Private Hospital | Level 1, Building 2, 70 Kent St | Deakin | ACT | 2600 | AU | (02) 6173 3709 | https://www.canberrahandcentre.com.au | |
+Dr Philip A. Griffin | Flinders Private Hospital | Suite 605 | Bedford Park | SA | 5042 | AU | 08 8276 6288 | | | Plastic & reconstructive surgeon
+Dr Jill Tomlinson | | 549 Bridge Road | Richmond | VIC | 3121 | AU | 03 9427 9596 | | |
+Dr David Hunter-Smith | Coastal Plastic Surgery Centre | Level 1, 262 Main Street | Mornington | VIC | 3931 | AU | 03 5976 3522 | https://www.plasticsurgery.com.au | |
+Dr A. F. Stewart Flemming | Fremantle Hospital | Alma Street | Fremantle | WA | 6160 | AU | 08 9431 3316 | | |
+Dr Albert Yoon | | Level 2, 209 Shakespeare Rd | Milford, Auckland | | 0626 | NZ | 09 486 5121 | | | Orthopaedic hand surgeon
+Dr Priscilla d'Agostino | Louise Medical Center, Clinique de la Main | 284 Avenue Louise | Bruxelles | | 1050 | BE | +32 2 534 29 99 | https://www.hand-surgery.eu/ | |
+Dr H. S. Cheng | Prince of Wales Hospital, CUHK Orthopaedics and Traumatology | | Hong Kong | | | HK | | | |
+Prof Leung-kim Hung | Prince of Wales Hospital, CUHK Orthopaedics and Traumatology | 5/F Prince of Wales Hospital | Hong Kong | | | HK | +852 2632 2723 | | |
+Dr Daniel W. H. Mok | Hong Kong Shoulder & Wrist Centre | Suite 2906, Bank of America Tower, 12 Harcourt Road, Central | Hong Kong | | | HK | +852 2537 8884 | | info@topshoulder.com.hk |
+Prof Seán Carroll | Beacon Plastic Surgery, Beacon Clinic | Suite 26, Beacon Clinic, Sandyford | Dublin | | D18 E7P4 | IE | +353 1 213 5611 | https://www.beaconplasticsurgery.ie | |
+Dr Stefano Cataldi | Clinica Sanatrix | Via di Trasone, 61 | Roma | RM | 00199 | IT | +39 06 86321981 | | |
+Dr Kazuki Kuniyoshi; Dr Yusuke Matsuura; Dr Kenichi Murakami | Chiba University, Orthopaedic Surgery | 1-8-1 Inohana, Chuo-ku | Chiba | | | JP | | | |
+Dr J.D. Moolenburgh | Medisch Centrum Alkmaar | Wilhelminalaan 12 | Alkmaar | | 1815 JD | NL | +31 72 548 3250 | | | Rheumatologist
+Prof Paul M.N. Werker | UMC Groningen, Plastic Surgery | Hanzeplein 1 | Groningen | | 9700 RB | NL | +31 50 361 3220 | | |
++ XPert Clinic Groningen | Petrus Driessenstraat 3 | Groningen | | | NL | 088 778 5218
++ Ommelander Ziekenhuis | | Scheemda | | | NL | 088 066 1000
+Dr A. Braakenburg | St Antonius Ziekenhuis, Plastic and Hand Surgery | Koekoekslaan 1 | Nieuwegein | | 3435 CM | NL | 088 320 2400 | | |
+Dr Vilhjalmur Finsen | NTNU / St. Olavs Hospital | | Trondheim | | 7491 | NO | +47 73868611 | | |
+Dr Nikolay Gubochkin | Military Medical Academy, Clinic of Military Traumatology and Orthopedics | Botkinskaya street 13 | St. Petersburg | | 194044 | RU | +7 951 307 50 07 | | |
+Dr Andrei Zhigalo | International Medical Centre SOGAZ, Hand and Plastic Surgery | Malaya Konyushennaya street 8 | St. Petersburg | | 191186 | RU | +7 951 65 65 911 | http://www.sogaz-clinic.ru/ | |
+Dr Aleksander Silaev | Interdistrict Clinical Hospital | Koltushskoe shosse 20 | Vsevolozhsk | Leningrad region | 188643 | RU | +7 952 283 31 82 | | | Hand and foot surgeon
+Dr Sebastian Radomski | | Calle Guayrin 8, San Pedro-Breña Alta | La Palma | | | ES | +34 922 42 98 05 | | |
+Dr Georges Rappoport | | 35 av. de Rumine | Lausanne | | 1005 | CH | +41 21 323 61 30 | | |
+Dr Julia Sproedt | Stadtspital Zürich Waid | Tièchestrasse 99 | Zürich | | 8037 | CH | +41 44 416 47 03 | | |
+Dr A. R. Jandali | Kantonsspital Winterthur, Klinik für Hand- und Plastische Chirurgie | Brauerstrasse 15 | Winterthur | | 8401 | CH | +41 52 266 24 24 | | |
+
+@source id=ids_na_de url=https://www.dupuytren-online.de/nadelfasziotomie-adressen/ page_modified=2026-09-04 treatments=needle_aponeurotomy:hand specialty=hand_surgery
+
+Dr Jens Köhler | | Liebigstr. 23 | Dresden | | 01187 | DE | +49 351 4675220 | | |
+PD Dr Frank Siemers | BG Klinikum Bergmannstrost, Plastische und Handchirurgie | Merseburger Straße 165 | Halle (Saale) | | 06112 | DE | +49 345 132-6333 | | |
+Dr Rudolf Grundentaler | Handchirurgie im ÄrzteZENTRUM | Ruschestrasse 103 | Berlin | | 10365 | DE | +49 30 8058-1228 | https://d-rg.de/ | |
+Dr Joachim Felderhoff; Dr Michael Lehnert | MEVIVA | Stuttgarter Platz 1 | Berlin | | 10627 | DE | +49 30 318631-0 | https://www.meviva.de | |
+Dr Holger Göbel | | Clausewitzstr. 4 | Berlin | | 10629 | DE | +49 30 88682930 | https://www.hand-und-knie.de | |
+Dr Frank Thomas | | Wichmannstr. 7 | Berlin | | 10787 | DE | +49 30 26390890 | https://www.handdoktor.de | |
+Dr Christian Pessenlehner | Handchirurgie am Ullsteinhaus | Mariendorfer Damm 3 | Berlin | | 12099 | DE | +49 30 74070063 | https://www.berlin-handchirurgie.com | |
+Dr Matthias Schulz | HELIOS Klinikum Emil von Behring, Plastische Chirurgie und Handchirurgie | Walterhöferstraße 11 | Berlin | | 14165 | DE | +49 30 8102-1350 | | |
+Dr Jan Cruse | Agaplesion Diakonieklinikum Hamburg, Klinik für Handchirurgie | Hohe Weide 17 | Hamburg | | 20259 | DE | +49 40 790208000 | | |
+Prof Peter Mailänder | UKSH Campus Lübeck | Ratzeburger Allee 160 | Lübeck | | 23538 | DE | +49 451 500 2061 | https://www.uksh.de | |
+Dr Mike Rüttermann | HPC Oldenburg | Poststr. 1 | Oldenburg | | 26121 | DE | +49 441 4086855 | | |
+Dr Holger Braun | Helios Klinikum Hildesheim, Handchirurgie | Senator-Braun-Allee 33 | Hildesheim | | 31135 | DE | +49 5121 894-2000 | | |
+ | Orthopädische Gemeinschaftspraxis Palitzsch und Johannleweling | Johannisstr. 1 | Bielefeld | | 33611 | DE | +49 521 81283 | https://www.orthopaedische-praxis-bielefeld.de | |
+Dr Wolfgang Lenze | | Mühlenstr. 21 | Enger | | 32130 | DE | | https://www.lenze-dupuytren.de | lenze@lenze-dupuytren.de |
+Dr Ranjith Elam | | Steinmetzstraße 47 | Mönchengladbach | | 41061 | DE | +49 2161 24746-0 | http://www.dr-elam.de/ | |
+Dr Robert Weindl | | Birkerstr. 1 | Solingen | | 42651 | DE | +49 212 3835360 | | |
+PD Dr Ole Ackermann | | Raiffeisenstrasse 58 | Duisburg | | 47259 | DE | +49 203 781013 | https://www.praxis-oa.de | |
+Dr Paul Altmann; Dr Bernd von Maydell | Handzentrum Köln | Zeppelinstr. 2 | Köln | | 50667 | DE | +49 221 25825-25 | https://www.handzentrum.koeln | |
+Dr Alfons Erdmann | Plastische Chirurgie im Eduardus | Custodisstrasse 3-17 | Köln | | 50679 | DE | +49 221 16895979 | https://www.plastische-chirurgen-koeln.de | |
+Prof Paul Fuchs; Dr Jan Schiefer | Krankenhaus Köln-Merheim (Universität Witten/Herdecke) | Ostmerheimer Strasse 200 | Köln | | 51109 | DE | +49 221 8907 3883 | | |
+Dr Frank Bosselmann; Dr Peter Siepe | Praxisklinik für Plastische und Ästhetische Chirurgie, Handchirurgie | Friedrichstraße 57 | Bonn | | 53111 | DE | +49 228 9766031 | https://www.bosselmann-siepe.de | |
+Dr Martin Richter; Dr Thomas Bayer-Sandow | Malteser Krankenhaus Bonn/Rhein-Sieg, Hand Trauma Center | Von-Hompesch-Str. 1 | Bonn | | 53123 | DE | +49 228 6481-861 | | |
+ | St. Barbara-Klinik Hamm-Heessen, Klinik für Handchirurgie | Am Heessener Wald 1 | Hamm | | 59073 | DE | +49 2381 681-0 | | |
+Prof Ulrich Rieger | Agaplesion Markus Krankenhaus | Wilhelm-Epstein-Straße 4 | Frankfurt am Main | | 60431 | DE | +49 69 9533-4777 | | |
+Dr Daniel Vonier | Chirurgische Praxis im Medicum | Langenbeckplatz 2 | Wiesbaden | | 65189 | DE | +49 611 44754080 | | |
+Dr Gunther Oldag | Schönheits-HAND-Werk | Hauptstrasse 53 | Wallerfangen | | 66798 | DE | +49 6831 4005904 | https://www.schoenheits-hand-werk.de | |
+Dr Jul Herbig | ZOL Zentrum für Orthopädie Limburgerhof | Speyerer Strasse 18-20 | Limburgerhof | | 67117 | DE | +49 6236 93880-0 | https://www.zol-limburgerhof.com | |
+Dr Nina Ofer-Morsey | Praxis für Handchirurgie und Plastische Chirurgie (HPC Kurpfalz) | Hasenackerstr. 13-17 | Mannheim | | 68163 | DE | +49 621 9110930 | https://www.hpc-kurpfalz.de/ | |
+Dr Ulrich Rohde | Praxis für Plastische und Ästhetische Chirurgie, Handchirurgie | Furtwänglerstr. 2/2 | Heidelberg | | 69121 | DE | +49 6221 432000 | | |
+Dr Christine Bultmann | Chirurgische Praxis, Handchirurgie und Fußchirurgie | Hesselgasse 44 | Wiesloch | | 69168 | DE | +49 6222 1331 | https://www.chirurgie-handchirurgie.de | | Practice covers hand and foot surgery
+Prof Frank Staub | Praxis für periphere Neurochirurgie | Ringstr. 3 | Dossenheim | | 69221 | DE | +49 6221 862069 | http://www.neurochirurgie-dossenheim.de/ | info@neurochirurgie-dossenheim.de |
+Dr Gerd Lauser | Orthopädische Praxis, Haus der Gesundheit | Stuttgarter Str. 33-35 | Stuttgart | | 70469 | DE | +49 711 8067554 | https://www.dupuytren-stuttgart.info/ | info@dr-lauser.de |
+Prof Peter Hahn | Vulpius Klinik, Handchirurgie | Vulpiusstr. 29 | Bad Rappenau | | 74906 | DE | +49 7264 60-0 | https://www.vulpiusklinik.de/dupuytren | |
+Dr Irene Kammerer | | Wilhelmstr. 1 | Ettlingen | | 76275 | DE | +49 7243 330555-0 | https://www.orthopaeden-ettlingen.de | |
+Dr Claus J. Deglmann | Privatpraxis MünchenHand | Marienplatz 21 | München | | 80331 | DE | +49 89 2355600 | | |
++ Klinik Josephinum | Schönfeldstraße 16 | München | | 80539 | DE |
+Dr Bernd Kühlein | Praxis für Plastische Chirurgie und Handchirurgie | Brienner Straße 3 | München | | 80333 | DE | +49 89 23232777 | https://www.feine-handchirurgie.de | |
++ Praxis Kühlein (Pasing) | Gottfried-Keller-Straße 20 | München | | 81245 | DE | +49 89 8899830
+PD Dr Holger Erne | Handchirurgie, Plastische Chirurgie | Karlsplatz 4 | München | | 80335 | DE | +49 89 597972 | | |
+Dr Bernhard Lukas | Wirbelsäulenzentrum am Stiglmaierplatz | Nymphenburger Str. 1 | München | | 80335 | DE | +49 89 54343030 | | info@handchirurgie-bayern.de |
+Dr Volker Berges; Dr Thomas Naumann | Orthopädie Laim | Agnes-Bernauer-Str. 123 | München | | 80687 | DE | +49 89 585791 | https://www.orthopaedie-laim.de | |
+ | TU München, Klinik für Dermatologie und Allergologie | Biedersteiner Str. 29 | München | | 80802 | DE | +49 89 4140-3180 | | |
+Dr Christian Kindler | Schön Klinik München Harlaching, Zentrum für Handchirurgie | Harlachinger Straße 51 | München | | 81547 | DE | +49 89 6211-2061 | | |
+Dr Gisela Breindl | | Truderinger Str. 302 | München | | 81825 | DE | | | praxis@handchirurgie-breindl.de |
+Dr Eva-Maria Baur; Dr Gaby Fromberg | Praxis für Plastische Chirurgie und Handchirurgie | James-Loeb-Str. 13 | Murnau | | 82418 | DE | +49 8841 4878880 | http://www.baur-fromberg.de/ | |
+Dr Jörg Witthaut | Praxisklinik Handchirurgie Wasserburg | Gabersee 1 | Wasserburg am Inn | | 83512 | DE | +49 8071 9217999 | | |
+Dietmar Kissner | Schön Klinik Vogtareuth | Krankenhausstraße 20 | Vogtareuth | | 83569 | DE | +49 8038 90-1341 | https://www.schoen-klinik.de | |
+Dr Jens Blumtritt | Orthopädische Praxis, Ärztehaus Kliniken St. Elisabeth | Bahnhofstr. 103b | Neuburg an der Donau | | 86633 | DE | | https://www.dr-blumtritt.de | |
+Prof Bert Reichert | Privatpraxis für Morbus Dupuytren, Ambulantes BehandlungsCentrum Wöhrder See | Am Tullnaupark 8 | Nürnberg | | 90402 | DE | +49 911 5192519 | https://prof-reichert.de | | Runs duplife.de ("Gut leben mit Dupuytren")
+Dr Reiner Sievers | Ambulantes BehandlungsCentrum im Klinikum Nord | Prof.-Ernst-Nathan-Str. 1 | Nürnberg | | 90419 | DE | +49 911 398-3061 | | |
+Dr Karl Heinz Hofbeck | | Elisabeth-Selbert-Platz 1 | Nürnberg | | 90473 | DE | +49 911 66000600 | https://www.handchirurgie-hofbeck.de | |
+Dr Marian Maier | Klinikum Kulmbach, Handchirurgie | Albert-Schweitzer-Str. 10 | Kulmbach | | 95326 | DE | +49 9221 98-1751 | | |
+Dr Josef Schauer | Ordinationsgemeinschaft Sportmed Plus | Alpenstrasse 95 | Salzburg | | 5020 | AT | | | |
+Dr Eva-Maria Baur; Prof Robert Zimmermann | Universitätsklinik Innsbruck, Plastische Chirurgie | Anichstraße 35 | Innsbruck | | 6020 | AT | +43 512 504 22740 | | |
+
+@source id=ids_cci_de url=https://www.dupuytren-online.de/collagenase-adressen/ page_modified=2026-10-19 treatments=collagenase:hand specialty=hand_surgery
+# Collagenase (Xiapex) is no longer marketed outside the US (IDS, Oct 2026). These clinics have experience with it; availability now depends on individual import.
+
+Dr Joachim Felderhoff; Dr Michael Lehnert | MEVIVA | Stuttgarter Platz 1 | Berlin | | 10627 | DE | +49 30 318631-0 | | | Collagenase no longer marketed in Europe; ask about current availability
+Prof Johannes C. Bruck | Hohenzollernklinik | Kurfürstendamm 37 | Berlin | | 10719 | DE | +49 30 2000602424 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Mike Rüttermann | HPC Oldenburg | Poststr. 1 | Oldenburg | | 26121 | DE | +49 441 408685 | | | Collagenase no longer marketed in Europe; ask about current availability
+Prof Karsten Knobloch | | Heiligerstraße 3 | Hannover | | 30159 | DE | +49 511 8970890 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Daniel Stosch | Gemeinschaftspraxis Königsallee | Königsallee 53-55 | Düsseldorf | | 40212 | DE | +49 211 828937-10 | | | Collagenase no longer marketed in Europe; ask about current availability
+Andreas Binder | Privatärztliche Praxis | Hagener Str. 87 | Dortmund | | 44225 | DE | +49 231 18750747 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Martin Richter | Malteser Krankenhaus Bonn/Rhein-Sieg, Hand Trauma Center | Von-Hompesch-Str. 1 | Bonn | | 53123 | DE | +49 228 6481-861 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Horst Zajonc; Prof G. Björn Stark | Universitätsklinikum Freiburg, Plastische und Handchirurgie | Hugstetter Str. 55 | Freiburg | | 79106 | DE | +49 761 270-28170 | | | Collagenase no longer marketed in Europe; ask about current availability
+Prof Riccardo Giunta | LMU Klinikum, Handchirurgie, Plastische und Ästhetische Chirurgie | Pettenkoferstr. 8a | München | | 80336 | DE | +49 89 5160-2697 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Jörg Witthaut | Praxisklinik Handchirurgie Wasserburg | Krankenhausstraße 2 | Wasserburg am Inn | | 83512 | DE | +49 8071 9217999 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dietmar Kissner | Schön Klinik Vogtareuth | Krankenhausstraße 20 | Vogtareuth | | 83569 | DE | +49 8038 90-1341 | | | Collagenase no longer marketed in Europe; ask about current availability
+PD Dr Marcus Spies | Krankenhaus Barmherzige Brüder Regensburg, Plastische und Handchirurgie | Prüfeninger Str. 86 | Regensburg | | 93049 | DE | +49 941 369-2260 | | | Collagenase no longer marketed in Europe; ask about current availability
+Dr Marian Maier | Klinikum Kulmbach, Handchirurgie | Albert-Schweitzer-Str. 10 | Kulmbach | | 95326 | DE | +49 9221 98-1751 | | | Collagenase no longer marketed in Europe; ask about current availability
+
+@source id=ids_surgery_foot_de url=https://www.dupuytren-online.de/dupuytren-chirurgie-adressen/ page_modified=2026-10-19 treatments=foot_surgery:foot specialty=foot_ankle_surgery
+
+Prof Johannes Beckmann | Sportklinik Stuttgart | Taubenheimstr. 8 | Stuttgart | | 70372 | DE | | | | Listed by IDS as experienced in Ledderhose surgery
+PD Dr Franz Köck | Gemeinschaftspraxis MedArtes | Regensburger Str. 13 | Neutraubling | | 93073 | DE | | | | Listed by IDS as experienced in Ledderhose surgery
+Prof Joachim Grifka | Asklepios Klinikum Bad Abbach | Kaiser-Karl-V.-Allee 3 | Bad Abbach | | 93077 | DE | | | | Listed by IDS as experienced in Ledderhose surgery
+
+@source id=ids_cryo url=https://www.dupuytren-online.info/cryosurgery/ page_modified=2025-01-06 treatments=cryoablation:foot specialty=podiatry
+
+ | The Barn Clinic | | | | | GB | | http://www.thebarnclinic.co.uk/ | | IDS: the only European clinic it knows of doing cryosurgery for Ledderhose (via the Ledderhose blog)

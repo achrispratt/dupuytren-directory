@@ -1,0 +1,165 @@
+# Transcribed by hand from the International Dupuytren Society (IDS) radiotherapy clinic lists.
+# Format (see scripts/ingest/curated.py):
+#   @source key=value ...      applies to the records that follow
+#   people ; people | practice | street | city | region | postal | CC | phone | website | email | note
+#   + practice | street | city | region | postal | CC | phone      extra location for the previous record
+# Empty fields are allowed. People are separated by ";". CC is an ISO 3166 alpha-2 code.
+
+@source id=ids_rt_en url=https://www.dupuytren-online.info/radiotherapy-clinics/ page_modified=2026-10-26 treatments=radiotherapy:hand specialty=radiation_oncology
+
+Dr Joshua Sappiatzer; Dr Caroline Connell | GenesisCare Oncology | 325 South Terrace | Adelaide | SA | 5000 | AU | 08 8228 6700 | | |
+Dr Chris Harper | Perth Radiation Oncology / Fiona Stanley Hospital | 24 Salvado Road | Wembley | WA | 6014 | AU | 1300 977 062 | | |
+Prof Michael Jackson | Prince of Wales Hospital, Radiation Oncology | Barker St | Randwick | NSW | 2031 | AU | 02 9382 2501 | | |
+Dr Michael Izard | Northern Beaches Cancer Care | Building 4, 49 Frenchs Forest Road E | Frenchs Forest | NSW | 2086 | AU | 02 8377 2700 | | |
+Dr Jarad Martin | Lake Macquarie Private Hospital | 3 Sydney Street | Gateshead | NSW | 2290 | AU | 02 4918 4500 | | |
+Prof David Christie | John Flynn Private Hospital | Inland Drive | Tugun | QLD | 4224 | AU | 07 5598 0366 | | |
++ Premion Place | 39 White Street | Southport | QLD | 4215 | AU |
+Dr David Blakey | GenesisCare Frankston | 24-28 Frankston-Flinders Rd | Frankston | VIC | 3199 | AU | 03 9781 8200 | | |
+Dr Shaun Costello | Dunedin Hospital, Southern Blood and Cancer Service | 201 Great King Street | Dunedin | | | NZ | +64 3 474 0999 | | | IDS lists "and others" at this service
+Dr Charles De Groot | Waikato Hospital, Department of Oncology | Pembroke Street | Hamilton | | | NZ | | | |
+Dr David Hamilton | Wellington Hospital, Blood & Cancer Centre | Private Bag 7902 | Wellington | | 6242 | NZ | +64 4 385 5999 | | | IDS lists "and others" at this service
+Dr Elizabeth Kurien | Tom Baker Cancer Centre | 1331 29th Street NW | Calgary | AB | T2N 4N2 | CA | (403) 521-3077 | | |
+Dr David Roberge | Notre-Dame Hospital (CHUM) | | Montreal | QC | H2L 4M1 | CA | (514) 890-8254 | | |
+Dr Charles Catton | Princess Margaret Cancer Centre, Sarcoma Clinic | | Toronto | ON | M5G 2M9 | CA | | | | Physician referral letter required; Canadian residents only (per IDS)
+Dr Osama Salib | Blackrock Health | | Dublin | | | IE | | https://www.blackrockhealth.com/consultants/dr-osama-salib | | Also sees patients from Northern Ireland in some cases (per IDS)
+Dr Raúl Hernanz de Lucas | GenesisCare Madrid | | Madrid | | | ES | | https://www.topdoctors.es/doctor/raul-hernanz-de-lucas/ | |
+ | Universitätsspital Zürich, Klinik für Radio-Onkologie | Rämistrasse 100 | Zürich | | 8091 | CH | +41 44 255 29 34 | | |
+ | UMC Groningen (University Medical Center Groningen) | Hanzeplein 1 | Groningen | | 9700 RB | NL | +31 50 361 3220 | | p.m.n.werker@umcg.nl | IDS lists Prof. Paul Werker (plastic & hand surgery, Dupuytren researcher) as the contact for RT referrals here
+ | Leids Universitair Medisch Centrum, Radiotherapie | Albinusdreef 2 | Leiden | | 2333 ZA | NL | 071 526 9111 | | | IDS: not yet confirmed
+Dr Richard Shaffer | GenesisCare (London Cromwell Hospital & Wimbledon) | | London | | | GB | 07584 532397 | https://www.dupuytrensuk.com | pa.drshaffer@genesiscare.co.uk | Also treats at GenesisCare Nottingham and Guildford; ~15 further UK sites via dupuytrensuk.com
+Dr John Glees | Parkside Oncology Clinic | 49 Parkside | London | | SW19 5NB | GB | 020 8247 3351 | | |
+Prof Ruby F. Meredith | University of Alabama at Birmingham, Radiation Oncology | 1700 6th Avenue South | Birmingham | AL | 35249 | US | (205) 934-5670 | https://www.uab.edu/medicine/radonc/ | |
+ | The Center for Cancer Care (Huntsville Hospital) | 201 Sivley Road | Huntsville | AL | 35801 | US | (256) 327-5800 | | | Also treats in Decatur, AL
+Dr Jonathan Pagan | CARTI Cancer Center | 8901 Carti Way | Little Rock | AR | 72205 | US | | | |
+Dr Guy Jones | Colorado River Oncology | 967 Hancock Road | Bullhead City | AZ | 86442 | US | (928) 404-1938 | https://coloradoriveroncology.com | |
++ Oncology Las Vegas | 2851 North Tenaya Way, Suite 100 | Las Vegas | NV | 89128 | US | (702) 243-3340
++ Oncology Las Vegas | 33 North Pecos Rd | Henderson | NV | 89074 | US | (702) 990-4761
++ North Cascade Cancer Center | 381 West Horton Rd | Bellingham | WA | 98226 | US | (360) 370-2873
++ Sound Cancer Care | 2940 S Meridian #100 | Puyallup | WA | 98373 | US | (253) 200-3166
+Dr Shyamal Patel | Dignity Health Cancer Institute at St. Joseph's | 350 W. Thomas Rd. | Phoenix | AZ | 85013 | US | (844) 410-0702 | | |
+Dr Kurt Wharton | Phoenix CyberKnife and Radiation Oncology Center | 4611 E. Shea Blvd, Suite 120 | Phoenix | AZ | 85028 | US | (602) 441-3845 | | |
+Dr Lauren Lukas | USC Norris Comprehensive Cancer Center | 1441 Eastlake Ave | Los Angeles | CA | 90033 | US | (323) 865-3050 | | |
+Dr Alexander Gottschalk | UCSF Radiation Oncology | 1600 Divisadero Street, Suite H1031 | San Francisco | CA | 94115 | US | (415) 353-9807 | | |
+Prof Arno J. Mundt | UC San Diego, Radiation Medicine and Applied Sciences | 3855 Health Sciences Drive #0843 | La Jolla | CA | 92093 | US | (858) 822-0941 | https://radonc.ucsd.edu | |
+Dr Prabhakar Tripuraneni | Scripps Clinic Torrey Pines, Radiation Oncology | 10666 N. Torrey Pines Road | La Jolla | CA | 92037 | US | | https://www.scripps.org/physicians/5514-tripuraneni | |
+Dr Christopher Straka | UC San Diego, Radiation Medicine and Applied Sciences | 16918 Dove Canyon Rd #103 | San Diego | CA | 92127 | US | (858) 649-5100 | | |
+Dr Brian D. Kavanagh | University of Colorado, Radiation Oncology | 1665 Aurora Court, Suite 1032 | Aurora | CO | 80045 | US | (720) 848-0116 | | |
+Dr Tim Waxweiler | UCHealth Memorial Hospital North | 4080 Briargate Parkway | Colorado Springs | CO | 80920 | US | (719) 365-6800 | | |
++ UCHealth Memorial Hospital Central | 525 Bob Peters Grove | Colorado Springs | CO | 80909 | US | (719) 365-6800
+Dr Christopher Koprowski | ChristianaCare Helen F. Graham Cancer Center | 4701 Ogletown-Stanton Rd. | Newark | DE | 19713 | US | (302) 623-4800 | https://www.christianacare.org/radiationoncology | |
+Dr Scot N. Ackerman | Ackerman Cancer Center | 10881 San Jose Boulevard | Jacksonville | FL | 32223 | US | (904) 880-5522 | https://www.ackermancancercenter.com | |
+Dr Alan Pollack; Dr Aaron Wolfson | University of Miami Miller School of Medicine, Radiation Oncology | 1475 NW 12th Ave, Suite 1500 | Miami | FL | 33136 | US | (305) 243-4916 | | |
+Dr Arif N. Ali | Northwest Georgia Radiation Oncology | 100 Market Pl Blvd 102 | Cartersville | GA | 30121 | US | (678) 721-5555 | | |
+Dr Lawrence Hochman | Radiotherapy Centers of Kentuckiana | 3920 Dupont Square South, Suite B | Louisville | KY | 40207 | US | (502) 409-9701 | | |
+Dr Philip J. Villiotte | Maine Medical Center | 98 Campus Dr, Unit 101 | Scarborough | ME | 04074 | US | (207) 396-7500 | | |
++ Spectrum Medical Group | 324 Gannett Drive, Suite 200 | South Portland | ME | 04106 | US | (207) 662-2276
+Dr Karen Bernstein; Dr Yen-Lin Chen; Dr Thomas DeLaney | Massachusetts General Hospital, Radiation Oncology | 30 Fruit Street | Boston | MA | 02114 | US | (617) 726-6876 | | | Accepts only patients with a confirmed DD/LD diagnosis (per IDS)
+Dr Jonathan Paly | Massachusetts General Hospital | 100 Blossom St | Boston | MA | 02114 | US | (617) 724-1548 | | |
++ Newton-Wellesley Hospital | 2014 Washington St | Newton | MA | 02462 | US |
+Dr Basia McAnaw | Clark Cancer Center at Falmouth Hospital | 1 Ter Heun Drive | Falmouth | MA | 02540 | US | (508) 495-8900 | | |
+Dr Stuart Berman | Beth Israel Deaconess (Waltham) | | Waltham | MA | | US | (617) 667-2345 | | | IDS: not confirmed
+Dr James Hayman | University of Michigan, Radiation Oncology | 1500 East Medical Center Drive | Ann Arbor | MI | 48109 | US | (734) 936-4300 | | |
+Dr Kathryn E. Dusenbery; Dr Leslie Chang | University of Minnesota Medical Center, Radiation Oncology | 500 Harvard Street | Minneapolis | MN | 55455 | US | (612) 273-6700 | | |
+Dr Chance Matthiesen | Freeman Cornell-Beshore Cancer Institute | 932 East 34th Street | Joplin | MO | 64804 | US | (417) 347-2200 | | |
+Dr David Koeplin | Bozeman Deaconess Cancer Center | 931 Highland Blvd., Suite 3130 | Bozeman | MT | 59715 | US | (406) 585-5070 | | | IDS: not confirmed
+Dr Michael Sinopoli | Comprehensive Cancer Centers of Nevada | 9280 W. Sunset Rd, Suite 100 | Las Vegas | NV | 89148 | US | (702) 952-1251 | https://www.cccnevada.com | |
+Dr Dustin Boyer; Dr Nathan Jones | Oncology Las Vegas | 2851 North Tenaya Way, Suite 100 | Las Vegas | NV | 89128 | US | (702) 243-3340 | | |
++ Oncology Las Vegas | 33 North Pecos Rd | Henderson | NV | 89074 | US | (702) 990-4761
++ Oncology Las Vegas | 6160 S Fort Apache Rd | Las Vegas | NV | 89148 | US | (702) 243-3340
+Dr James R. Wong | Morristown Medical Center, Radiation Oncology | 100 Madison Avenue | Morristown | NJ | 07962 | US | (973) 971-4146 | | |
+Prof Yuhchyau Chen | Wilmot Cancer Institute, Radiation Oncology | 601 Elmwood Ave | Rochester | NY | 14642 | US | (585) 276-4543 | | |
+Dr Jeffrey Vainshtein | White Plains Hospital Center for Cancer Care | 2 Longview Avenue | White Plains | NY | 10601 | US | (914) 681-2727 | | |
+Dr Volker Stieber | Atrium Health Wake Forest Baptist Radiation Oncology - Lexington | 107 W. Medical Park Drive, Suite 102 | Lexington | NC | 27292 | US | (336) 713-0042 | https://www.wakehealth.edu/locations/clinics/r/radiation-oncology-lexington | |
+Dr Nicole Larrier | Duke Radiation Oncology | 20 Duke Medicine Circle | Durham | NC | 27710 | US | (919) 660-2100 | | |
++ Duke Radiation Oncology | 566 Ruin Creek Road | Henderson | NC | 27536 | US | (252) 436-1566
+Dr Roger Anderson | Rex Cancer Center of Wakefield | 11200 Governor Manly Way, Suite 102 | Raleigh | NC | 27614 | US | (919) 570-7550 | | |
+Dr Terence Herman | University of Oklahoma Health Sciences Center, Radiation Oncology | 825 NE 10th Street, Suite 1430 | Oklahoma City | OK | 73104 | US | (405) 271-3016 | https://www.ouhsc.edu | |
+ | Clackamas Radiation Oncology Center | 9280 SE Sunnybrook Blvd. Suite 100 | Clackamas | OR | 97015 | US | (503) 513-3300 | | |
+ | Providence Portland Medical Center, Radiation Oncology | 4805 NE Glisan St. | Portland | OR | 97213 | US | (503) 215-6029 | | |
+ | Providence St. Vincent Medical Center, Radiation Oncology | 9205 SW Barnes Rd. | Portland | OR | 97225 | US | (503) 216-2195 | | |
+Dr Michael Wahl | Samaritan Pastega Regional Cancer Center | 501 NW Elks Drive | Corvallis | OR | 97330 | US | (541) 768-7722 | | |
+Dr Ravi Chandra | Compass Oncology | 265 N Broadway | Portland | OR | 97227 | US | (503) 280-1223 | | |
+Dr Anthony Ricco | Lankenau Medical Center | 100 E Lancaster Ave | Wynnewood | PA | 19096 | US | (484) 476-2000 | | |
++ Riddle Hospital | 1068 W Baltimore Pike | Media | PA | 19063 | US | (484) 227-9400
+Dr Barry Wilcox | Baylor Scott & White Charles A. Sammons Cancer Center | 2001 N. MacArthur Blvd, Suite 120 | Irving | TX | 75061 | US | (972) 990-4322 | | |
+Dr C. Leland Rogers | Gamma West Cancer Services | 1250 East 3900 South, Suite 10 | Salt Lake City | UT | 84124 | US | (801) 456-8401 | | |
+Dr Gopal Bajaj; Dr Samir Kanani | Inova Fairfax Hospital, Radiation Oncology | 3300 Gallows Road | Falls Church | VA | 22042 | US | (703) 776-3731 | | |
+Dr Anthony Crimaldi | University of Virginia Radiation Oncology (Culpeper) | 545 Sunset Lane | Culpeper | VA | 22701 | US | (540) 829-4271 | | |
++ UVA Emily Couric Clinical Cancer Center | 1240 Lee St | Charlottesville | VA | 22908 | US | (434) 924-9333
+Dr Einsley Janowski; Dr Christopher McLaughlin | UVA Emily Couric Clinical Cancer Center | 1240 Lee St | Charlottesville | VA | 22908 | US | (434) 924-9333 | | |
+Dr Laurie Cuttino; Dr Elisabeth Weiss | VCU Radiation Oncology | 401 College Street | Richmond | VA | 23298 | US | (804) 828-7232 | | |
+Dr Alexei Polishchuk; Dr William Hall; Dr Michael Taylor | North Cascade Cancer Center | 381 West Horton Rd | Bellingham | WA | 98226 | US | (360) 370-2873 | https://www.northcascadecancercenter.com | |
+Dr Kevin Sanders | Sound Cancer Care | 2940 S Meridian #100 | Puyallup | WA | 98373 | US | (253) 200-3166 | https://www.soundcancercare.com/ | |
+Dr Sean F. Cleary | North Star Lodge Cancer Center | 808 N. 39th Ave. | Yakima | WA | 98902 | US | (509) 574-3400 | | |
+Dr Wayne T. Lamoreaux | Cancer Care Northwest | 1204 N Vercler Rd | Spokane Valley | WA | 99216 | US | (509) 228-1000 | | |
+Dr Juno Choe | Northwest Cancer Clinic | 7379 West Deschutes Ave, Suite 100 | Kennewick | WA | 99336 | US | (509) 987-1800 | | |
+Dr Sherry Zhao; Dr Andrew Roheig | Kadlec Tri-Cities Cancer Center | 7350 W Deschutes Ave | Kennewick | WA | 99336 | US | (509) 783-9894 | | |
+Prof M. Heinrich Seegenschmiedt; Dr S. Yilmam | MVZ Ruhrradiologie | Rüttenscheider Str. 191 | Essen | | 45131 | DE | +49 201 7998 690 | https://ruhrradiologie-essen.de/ | prof.seegenschmiedt@googlemail.com | Orthovoltage X-ray RT. Video consultation available: email Prof. Seegenschmiedt first (per IDS). IDS flags as suitable for patients from outside Germany
+Dr Markus Herkströter | MVZ Strahlentherapie Frankfurt-Bockenheim | Adalbertstr. 26 | Frankfurt am Main | | 60486 | DE | +49 69 175 36 883 | http://mvz-strahlentherapie.de/ | | Orthovoltage X-ray RT. IDS flags as suitable for patients from outside Germany
+Dr Manfred Körner | MVZ Propatiente | Spandauer Damm 130 | Berlin | | 14050 | DE | +49 30 3035 5735 | | | Electron-beam RT. IDS flags as suitable for patients from outside Germany
+Dr Ludwig Keilholz | Klinikum Bayreuth, Klinik und MVZ für Strahlentherapie | Preuschwitzer Str. 101 | Bayreuth | | 95445 | DE | +49 921 400-6800 | https://www.klinikum-bayreuth.de | | Electron-beam RT. IDS flags as suitable for patients from outside Germany
+
+@source id=ids_rt_de url=https://www.dupuytren-online.de/strahlentherapie-adressen/ page_modified=2026-10-19 treatments=radiotherapy:hand,radiotherapy:foot specialty=radiation_oncology
+# The German list is explicitly "clinics offering radiotherapy for Morbus Dupuytren or Ledderhose".
+
+Dr K. Matthias Heider | Praxis für Strahlentherapie | Niemeyerstraße 24 | Halle (Saale) | | 06110 | DE | +49 345 2198752 | | | Soft X-ray (orthovoltage)
+Prof Thomas G. Wendt | Universitätsklinikum Jena, Klinik für Strahlentherapie und Radioonkologie | Bachstr. 18 | Jena | | 07743 | DE | +49 3641 933214 | | | X-ray and electrons
+Dr Geetha Sreenivasa | Zentrum für Radio- und Strahlentherapie | Karl-Marx-Allee 90 A | Berlin | | 10243 | DE | +49 30 22488004 | https://www.radio-strahlentherapie.de | | Soft X-ray (orthovoltage)
+Dr R. Krempien | Helios Klinikum Berlin-Buch, Strahlentherapie | Schwanebecker Chaussee 50 | Berlin | | 13125 | DE | +49 30 9401-12051 | | | Soft X-ray (orthovoltage)
+Prof Guido Hildebrandt | Universitätsmedizin Rostock, Klinik und Poliklinik für Strahlentherapie | Südring 75 | Rostock | | 18059 | DE | +49 381 494 5288 | | | Soft X-ray (orthovoltage)
+Dr Kay Willborn | Pius-Hospital Oldenburg, Klinik für Strahlentherapie und internistische Onkologie | Georgstr. 12 | Oldenburg | | 26121 | DE | +49 441 229-1625 | | | Listed for both X-ray and electron RT
+Prof Clemens F. Hess | Universitätsmedizin Göttingen, Strahlentherapie | Robert-Koch-Str. 40 | Göttingen | | 37075 | DE | +49 551 39-8866 | | | Soft X-ray (orthovoltage)
+ | Strahlenpraxis Düsseldorf | Ikarusstraße 24 | Düsseldorf | | 40474 | DE | +49 211 95074790 | | | Soft X-ray (orthovoltage); second site Spielberger Weg 66
+Prof M. Heinrich Seegenschmiedt; Dr S. Yilmam | MVZ Ruhrradiologie | Rüttenscheider Str. 191 | Essen | | 45131 | DE | +49 201 7998 690 | https://ruhrradiologie-essen.de/ | prof.seegenschmiedt@gmail.com | Soft X-ray. Video consult: email Prof. Seegenschmiedt first and do not send images on first contact (per IDS)
+Dr Andreas Koziorowski; Dr Imke Stöver | MVZ am Alfried Krupp Krankenhaus | Alfried-Krupp-Straße 20 | Essen | | 45130 | DE | +49 201 434-41246 | | | Soft X-ray (orthovoltage)
+Dr Michael Piatkowiak | Radiologie Team Rur | Theodor-Körner-Str. 5 | Jülich | | 52428 | DE | +49 2461 97390 | https://www.radiologie-team-rur.de | | Soft X-ray (orthovoltage)
+Dr Markus Herkströter | MVZ Strahlentherapie Frankfurt-Bockenheim | Adalbertstr. 26 | Frankfurt am Main | | 60486 | DE | +49 69 175 36 883 | http://mvz-strahlentherapie.de/ | | Soft X-ray (orthovoltage)
+Dr Bodo van den Wyenbergh | Strahlentherapie MTK | Villebon Platz 1 | Liederbach | | 65835 | DE | +49 69 300652790 | | | Soft X-ray (orthovoltage)
+Dr Martina Treiber | Caritasklinik St. Theresia, Radioonkologie | Rheinstraße 2 | Saarbrücken | | 66113 | DE | +49 681 406-1539 | | | Soft X-ray (orthovoltage)
+Dr Thomas Schnabel | Klinikum Ludwigshafen, Klinik für Strahlentherapie und Radiologische Onkologie | Bremserstraße 79 | Ludwigshafen | | 67063 | DE | +49 621 503-3800 | | | Soft X-ray (orthovoltage)
+Prof Bernadette Eberlein | TU München, Klinik für Dermatologie und Allergologie | Biedersteiner Str. 29 | München | | 80802 | DE | +49 89 4140-3579 | | | Dermatology department offering soft X-ray RT
+Dr Markus Adam | Strahlentherapie Freising | Biberstraße 15 | Freising | | 85354 | DE | +49 8161 935320 | | | Soft X-ray (orthovoltage)
+Dr Harald Bruckbauer; Dr Sonja Karl | Hautärzte Neufahrn | Marktplatz 7b | Neufahrn | | 85375 | DE | +49 8165 708880 | https://www.bruckbauer.org | | Dermatology practice offering soft X-ray RT
+ | Klinikum Kempten, Radioonkologie und Strahlentherapie | Robert-Weixler-Str. 50 | Kempten | | 87439 | DE | +49 831 530-3307 | | | Soft X-ray (orthovoltage)
+Dr Oliver Ott | Universitätsklinikum Erlangen, Strahlenklinik | Universitätsstr. 27 | Erlangen | | 91054 | DE | +49 9131 85-34080 | | | Soft X-ray (orthovoltage)
+Prof Gerhard Grabenbauer | Radiologische Gemeinschaftspraxis Coburg, Strahlentherapie | Ketschendorfer Str. 33 | Coburg | | 96450 | DE | +49 9561 24910 | | | Soft X-ray (orthovoltage)
+Dr Hendrik Herm | DTZ Strahlentherapie Berlin | Kadiner Str. 23 | Berlin | | 10243 | DE | +49 30 293697597 | https://www.berlin-dtz.de | | Electron-beam RT
+Dr Manfred Körner | MVZ Propatiente | Spandauer Damm 130 | Berlin | | 14050 | DE | +49 30 3035 5735 | | | Electron-beam RT
+PD Dr Fabian Fehlauer | Strahlenzentrum Hamburg | Langenhorner Chaussee 369 | Hamburg | | 22419 | DE | +49 40 2442458-42 | | | Electron-beam RT
+ | Radioonkologie - Strahlentherapie Hamburg-Altona | Mörkenstraße 47 | Hamburg | | 22767 | DE | +49 40 38011-222 | | | Electron-beam RT
+Dr Anette Peters; Dr Alexander Peters | Strahlentherapie Leer | Annenstraße 7 | Leer | | 26789 | DE | +49 491 4545980 | https://www.strahlentherapie-leer.de | | Electron-beam RT
+Dr Marga Blach; Dr Angelika Bense | Friederikenstift Hannover, Strahlentherapie | Humboldtstr. 5 | Hannover | | 30169 | DE | +49 511 12193-30 | | | Electron-beam RT
+Prof Hans Christiansen | Medizinische Hochschule Hannover, Strahlentherapie und Spezielle Onkologie | Carl-Neuberg-Str. 1 | Hannover | | 30625 | DE | +49 511 532-2575 | | | Electron-beam RT
+PD Dr Oliver Micke | Franziskus Hospital Bielefeld, Klinik für Strahlentherapie | Kiskerstr. 26 | Bielefeld | | 33615 | DE | +49 521 589-1800 | https://www.franziskus.de | | Electron-beam RT
+Dr Fabian Schlaich | Strahlentherapie Südniedersachsen | Waldweg 9a | Göttingen | | 37073 | DE | +49 551 99693410 | | | Electron-beam RT
+Dr Stephan Christoph | MVZ Strahlentherapie und Onkologie Höxter | Brenkhäuser Str. 69 | Höxter | | 37671 | DE | +49 5271 66182050 | | | Electron-beam RT
+PD Dr Stefan Könemann | Strahlentherapie-Zentrum Bochum | Bergstraße 25 | Bochum | | 44791 | DE | +49 234 41717-0 | https://www.strahlentherapie-bo.de | | Electron-beam RT
+Dr Stefan Hesselmann | Zentrum für Strahlentherapie Rheine | Sprickmannstr. 36 | Rheine | | 48431 | DE | +49 5971 160980-0 | https://www.strahlenbehandlung.de | | Electron-beam RT
++ Zentrum für Strahlentherapie Osnabrück | Am Finkenhügel 5 | Osnabrück | | 49076 | DE | +49 541 800497-0
+Dr Christiana Lütter | Universitätsklinikum Bonn, Strahlentherapie | Sigmund-Freud-Str. 25 | Bonn | | 53127 | DE | +49 228 287-11583 | | | Electron-beam RT
+Dr Uwe Müller-Bülow | Radiologisches Institut Dr. von Essen, Strahlentherapie | Emil-Schüller-Str. 33 | Koblenz | | 56068 | DE | +49 261 13000-0 | https://www.dr-von-essen.de | | Electron-beam RT
+Dr Dieter Schnalke | Klinikum Lüdenscheid, Klinik für Strahlentherapie und Radioonkologie | Paulmannshöher Str. 14 | Lüdenscheid | | 58515 | DE | +49 2351 463641 | | | Electron-beam RT
+Prof Christian Weiß | Klinikum Darmstadt, Institut für Radioonkologie und Strahlentherapie | Grafenstraße 9 | Darmstadt | | 64283 | DE | +49 6151 780 8470 | https://www.klinikum-darmstadt.de | | Electron-beam RT
+Dr Kai Ansorg | RNS Gemeinschaftspraxis, Strahlentherapie am St. Josefs-Hospital | Beethovenstr. 20 | Wiesbaden | | 65189 | DE | +49 611 56589-1500 | https://www.rns-wiesbaden.de | | Electron-beam RT
+Dr Markus Bohrer | STM Praxis für Strahlentherapie Mannheim | Auf dem Sand 75-77 | Mannheim | | 68309 | DE | +49 621 7188040 | https://www.strahlentherapie-mannheim.de | | Electron-beam RT
+Prof Daniel Zips | Universitätsklinikum Tübingen, Radioonkologie | Hoppe-Seyler-Str. 3 | Tübingen | | 72076 | DE | +49 7071 29-82165 | | | Electron-beam RT. Prof Zips is listed as medical director; he may have moved (verify)
+Dr Jörg Aßmann | Strahlentherapie Neckarsulm | Am Mühlrain 2 | Neckarsulm | | 74172 | DE | +49 7132 7095100 | https://www.strahlentherapie-neckarsulm.de | | Electron-beam RT
+PD Dr Johannes Claßen | St. Vincentius-Kliniken Karlsruhe, Strahlentherapie | Steinhäuserstr. 18 | Karlsruhe | | 76135 | DE | +49 721 8108-5151 | | | Electron-beam RT
+Dr Marianne Schmucker | Universitätsklinikum Freiburg, Strahlenheilkunde | Robert-Koch-Str. 3 | Freiburg | | 79106 | DE | +49 761 270-9462 | | | Electron-beam RT
+Dr Petra Stegmaier | Zentrum für Strahlentherapie Freiburg | Wirthstr. 11c | Freiburg | | 79110 | DE | +49 761 151864-00 | | | Electron-beam RT
+Prof Stephan Mose | Schwarzwald-Baar-Klinikum, Strahlentherapie und Radioonkologie | Klinikstraße 11 | Villingen-Schwenningen | | 78052 | DE | +49 7721 93-3401 | https://www.sbk-vs.de/ | | Electron-beam RT
+Dr Claudia Hörl; Dr Erika Skulina; Dr Klaus Becker; Dr Albrecht Glück | Strahlentherapie und Onkologie am Klinikum Schwabing | Kölner Platz 1 | München | | 80804 | DE | +49 89 30682544 | https://www.strahlentherapie-schwabing.de | | Electron-beam RT
+ | Strahlentherapie Augsburg (Gemeinschaftspraxis Hombrink, Reiter & Gilg) | Hirblinger Str. 79a | Augsburg | | 86154 | DE | +49 821 44811-0 | | | Electron-beam RT
+Dr Monika Panzer | Praxis für Strahlentherapie und Radioonkologie Weilheim | Röntgenstr. 4 | Weilheim | | 83236 | DE | +49 881 924523450 | | | Electron-beam RT
+ | Strahlentherapie Süd (Ingolstadt) | | Ingolstadt | | 85049 | DE | | | | Network that also treats Dupuytren/Ledderhose; sites also in Kempten, Kaufbeuren, Memmingen, Biberach
++ Strahlentherapie Süd (Kaufbeuren) | | Kaufbeuren | | 87600 | DE |
++ Strahlentherapie Süd (Memmingen) | | Memmingen | | 87700 | DE |
++ Strahlentherapie Süd (Biberach) | | Biberach an der Riß | | 88400 | DE |
+PD Dr Ludwig Keilholz | Klinikum Bayreuth, Klinik und MVZ für Strahlentherapie | Preuschwitzer Str. 101 | Bayreuth | | 95445 | DE | +49 921 400-6800 | https://www.klinikum-bayreuth.de | | Electron-beam RT
+PD Dr Antje Fahrig | Sozialstiftung Bamberg, MVZ am Bruderwald, Radioonkologie | Buger Str. 80 | Bamberg | | 96049 | DE | +49 951 503-12920 | | | Electron-beam RT
+Prof Michael Flentje | Universitätsklinikum Würzburg, Klinik und Poliklinik für Strahlentherapie | Josef-Schneider-Str. 11 | Würzburg | | 97080 | DE | +49 931 201-28893 | | | Electron-beam RT
+ | AKH Wien, Universitätsklinik für Strahlentherapie | Währinger Gürtel 18-20 | Wien | | 1090 | AT | +43 1 40400-2723 | | |
+Dr Franz Böhler | Landeskrankenhaus Feldkirch, Strahlentherapie | Carinagasse 47 | Feldkirch | | 6800 | AT | +43 5522 303 3300 | | | Department head: Doz. Dr Alexander de Vries
+Dr Codruta Ionescu | Inselspital Bern, Universitätsklinik für Radio-Onkologie | Freiburgstrasse | Bern | | 3010 | CH | +41 31 632 26 32 | | |
+Prof Gabriela Studer | Luzerner Kantonsspital, Radioonkologie | Spitalstrasse | Luzern | | 6000 | CH | +41 41 205 58 01 | https://www.luks.ch | |
+ | Universitätsspital Zürich, Klinik für Radio-Onkologie | Rämistrasse 100 | Zürich | | 8091 | CH | +41 44 255 29 34 | | |
